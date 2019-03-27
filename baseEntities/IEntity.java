@@ -7,7 +7,8 @@ package baseEntities;
 //Savio is making a change cause he wants to :)
 //Faiez change
 //Arshia Changes
- 
+
+//Chnage from intellij
  /**
   * @author kkontog, ktsiouni, mgrigori
   *  
