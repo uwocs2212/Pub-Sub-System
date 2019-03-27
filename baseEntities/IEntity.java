@@ -5,10 +5,8 @@ package baseEntities;
 // Someone must pull this and edit it to merge it 
 
 //Savio is making a change cause he wants to :)
-//Faiez change
-//Arshia Changes
-
-//Chnage from intellij
+// Faiez change
+ 
  /**
   * @author kkontog, ktsiouni, mgrigori
   *  
