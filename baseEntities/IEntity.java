@@ -10,6 +10,6 @@ package baseEntities;
 public interface IEntity{
 
  //Faiez just change this
-
+// Faiez second change
 
 }
