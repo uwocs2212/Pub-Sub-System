@@ -1,0 +1,15 @@
+Index: baseEntities/IEntity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package baseEntities;\r\n\r\n\r\n\r\n /**\r\n  * @author kkontog, ktsiouni, mgrigori\r\n  *\r\n  * Base Interface for Publisher and Subscriber classes\r\n  */\r\npublic interface IEntity{\r\n\r\n //Faiez just change this\r\n// Faiez second change\r\n//SAVIO JUST MADE A CHANGE 8:25pm\r\n  //arshias change\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- baseEntities/IEntity.java	(date 1553733072000)
++++ baseEntities/IEntity.java	(date 1553733102929)
+@@ -13,4 +13,5 @@
+ // Faiez second change
+ //SAVIO JUST MADE A CHANGE 8:25pm
+   //arshias change
++  //Ryan change
+ }
