@@ -1,7 +1,7 @@
 package baseEntities;
 
 
-//Change two 
+
  /**
   * @author kkontog, ktsiouni, mgrigori
   *
@@ -14,4 +14,5 @@ public interface IEntity{
 //SAVIO JUST MADE A CHANGE 8:25pm
   //fuck this bs
   //arshias change
+  //Ryan Change
 }
